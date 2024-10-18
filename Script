@@ -1,0 +1,12 @@
+// ==UserScript==
+// @name         Kirka Cheat(Update v1.2)
+// @namespace    http://tampermonkey.net/
+// @version      1.2
+// @description  Kirka Master Mod adds toggleable features like increased fire rate, auto dodge, speed hack, auto jump, and more to enhance your Kirka.io gameplay.
+// @author       ShadowMods
+// @match        https://kirka.io/
+// @require      https://raw.githubusercontent.com/ShadowMods1/Kirka.IO-Best-Cheat/refs/heads/main/Script
+// @icon         https://i.postimg.cc/y87h3x7y/0dc15569002a714e09ef3b03da9ac43d-removebg-preview.png
+// @license      Apache License
+// @grant        none
+// ==/UserScript==
